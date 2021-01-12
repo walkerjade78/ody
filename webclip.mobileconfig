@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>Icon</key>
+            <data>
+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df+CVXx1l8NeJYn1nwVrLyzeHvEMMWy3v7dPmZHVflhvIV/4+LfgY/exZhJEX4u0AFFFFABRRRQAUUUUAFFFFAH//0P8AP/ooooAKKKKACiiigAooooAKKKKAPtv9gr9vT9oH/gnp+0Ho37Qv7PmsnTNX0smKSOXc9ne2cjBprG+hUjzrSbGWUYeNwJoisqgn/Xj/AOCV/wDwVQ/Z9/4Kp/s+xfFr4SyjS/EWmCKDxL4anlWS80i8kXIBIx51rNgtbXKgJMgPCyLJGn+KDX25+wV+3x+0H/wTx/aB0b9ob9nzV207VtLPlSwybntL6zdg09hewgjzrWbGWXh43xLEVkXJAP8Accor+CW2/wCD4DQvs0X2z9naUTbF8zy/FEZTfgbtpbTwSuc4yAcdQDU3/EcB4a/6N2uP/Cnh/wDkGgD+z79rf9kj4FftvfArWf2d/wBofRk1nw9rKDIzsuLW4TmG7tJh80NxC3zRyLyDwcqSD/kff8Fjf+COXx1/4JV/HWXwz4mifWfBWsvLN4e8QwxbLe/t0+ZkdV+WG7hX/j4t+gH72LMJIi/qD/4jgPDX/Ru1x/4U8P8A8g182ftZ/wDB2R+zD+298DdX/Z3/AGjP2XJdZ8Oayq7v+KoiS4tZ05iu7SUWG6G5gb543UggjB+UkEA/huore8UXGhXXiC8uPDUUsNg80hgWYoZBGWOzf5aqm/bjfsAXdnaAuAMGgAooooAKKKKACiiigD//0f8AP/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//0v8AP/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//0/8AP/ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD//2Q==   
+            </data>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>RashidFarhad</string>
+            <key>PayloadDescription</key>
+            <string>Configures Web Clip</string>
+            <key>PayloadDisplayName</key>
+            <string>RashidFarhad</string>
+            <key>PayloadIdentifier</key>
+            <string>com.kurd.RashidFarhad </string>
+            <key>PayloadOrganization</key>
+            <string>kurd store</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>B1766940-0927-4F94-BAF4-AFA8DC83B486</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+            <string>https://rashidfarhadstore.ml</string>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Supas Bo Dabazandni RashidFarhad Store🖤</string>
+    <key>PayloadDisplayName</key>
+    <string>RashidFarhad Store</string>
+    <key>PayloadIdentifier</key>
+    <string>com.RashAStore</string>
+    <key>PayloadOrganization</key>
+    <string>RashidFarhadStore</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>AC3450FC-4E16-46F2-A392-9D4D30CED9D5</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
