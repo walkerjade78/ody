@@ -1,3 +1,5 @@
+#Alightmotion
+HOAT, http://us-central1-alight-creative.cloudfunctions.net,PROXY
 #Planner 5D
 HOST,planner5d.com,PROXY
 #Day One
