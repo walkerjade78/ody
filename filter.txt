@@ -34,7 +34,7 @@ HOST,license.pdfexpert.com,PROXY
 # Gyroscope
 HOST,api.gyrosco.pe,PROXY
 # Kine Master
-HOST, http://api-kinemaster-assetstore.kinemasters.com,PROXY
+HOST,api-kinemaster-assetstore.kinemasters.com,PROXY
 # YouTube Music
 HOST,youtubei.googleapis.com,PROXY
 # Over
