@@ -28,10 +28,8 @@ host, ios-global-restaurant.twomiles.cn, Fake iAP Policy
 host, api.speak-translate.com, Fake iAP Policy
 host, menscoach-api.asqq.io, Fake iAP Policy
 host, subs.platforms.team, Fake iAP Policy
-
 host-keyword, -buy.itunes.apple.com, Fake PXX Policy
 host, api.cercube.com, Fake Cydia Tweak
-
 host, www.codecademy.com, Fake iAP Policy
 host, prod.api.shapr3d.com, Fake iAP Policy
 host, dbvirtualeducation.com, Fake iAP Policy
@@ -67,9 +65,7 @@ host, dupa-api.doupaiapp.com, Fake iAP Policy
 host, api.madewithfaded.com, Fake iAP Policy
 host, secure.istreamer.com, Fake iAP Policy
 host, api.farfaria.com, Fake iAP Policy
-
 host, activation.crossutility.com, reject
-
 host, pay.babybus.com, Fake iAP Policy
 host, app.autocad360.com, Fake iAP Policy
 host, www.api.monkeyuni.net, Fake iAP Policy
